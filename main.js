@@ -1,9 +1,9 @@
 const canvas =document.getElementById("myCanvas");
-const ctx = canvas.getContext("2d"); 
+const con = canvas.getContext("2d"); 
 
 const image = new Image();
 image.src = 'sprit.jpeg';
 
 image.onload = () =>{
-    ctx.drawImage(image,0,0,150,200);
+    con.drawImage(image,0,0,150,200);
 };
