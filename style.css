@@ -2,6 +2,6 @@ body{
     background-color: aqua;
 }
 #img{
-    width: 50%;
-    height: 50%;
+    width: 100px;
+    height: 250px;
 }
