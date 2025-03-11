@@ -1,3 +1,7 @@
 body{
     background-color: aqua;
 }
+#img{
+    width: 50%;
+    height: 50%;
+}
