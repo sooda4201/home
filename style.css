@@ -3,6 +3,8 @@
     background-image: url(syugou.jpg); 
     padding:  150px;        /* 余白指定 */
     border: solid 2px;      /* 枠線指定 */
+    width: 40%;
+    height: auto;
 }
 .moji{
     padding: 10px 20px;              
