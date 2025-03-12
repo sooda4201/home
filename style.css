@@ -1,7 +1,11 @@
 body{
     background-color: aqua
 }
- img{
-    width: 80%;
-    height: auto;
+.moji{
+    border:  solid 1px;                             /* 枠線指定 */
+    display:  inline-block;     
+    background-color: rgba(255, 255, 255, 0.7);  
+}
+.syugou{
+    background-image: url(syugou.jpg); 
 }
