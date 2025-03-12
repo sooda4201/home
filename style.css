@@ -1,9 +1,5 @@
 .syugou{
     text-align:  center;    /* 文字中央寄せ */
-    padding:  150px;        /* 余白指定 */
-    border: solid 2px;      /* 枠線指定 */
-}
-.syugou{
     background-image: url(syugou.jpg); 
 }
 .moji{
