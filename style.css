@@ -11,6 +11,7 @@
     background-color: rgba(255, 255, 255, 0.7);  
 }
 body{
-    background-image: b;
+    background-image: url(tairu.png);
+    background-repeat: repeat;
     background-color:darkseagreen;
 }
