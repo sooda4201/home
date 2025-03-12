@@ -1,6 +1,3 @@
-body{
-    background-color: aqua
-}
 .moji{
     padding: 10px 20px;              
     border:  solid 1px;                             /* 枠線指定 */
@@ -9,4 +6,7 @@ body{
 }
 .syugou{
     background-image: url(syugou.jpg); 
+}
+body{
+    background-color: aqua
 }
