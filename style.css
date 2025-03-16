@@ -1,8 +1,6 @@
 .syugou{
     text-align:  center;    /* 文字中央寄せ */
     background-image: url(syugou.jpg); 
-    padding:  150px;        /* 余白指定 */
-    border: solid 2px;      /* 枠線指定 */
 }
 .moji{
     padding: 10px 20px;              
