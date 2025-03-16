@@ -1,8 +1,8 @@
-.syugou{
+#syugou{
     text-align:  center;    /* 文字中央寄せ */
     background-image: url(syugou.jpg); 
 }
-.moji{
+#moji{
     padding: 10px 20px;              
     border:  solid 1px;                             
     display:  inline-block;     
