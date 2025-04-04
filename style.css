@@ -1,10 +1,4 @@
-.syugou{
-    text-align:  center;    /* 文字中央寄せ */
-    background-image: url(syugou.jpg); 
-}
-.moji{
-    padding: 10px 20px;
-}
+ 
 body{
     background-image: url(tairu.png);
     background-repeat: repeat;
