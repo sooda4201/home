@@ -1,4 +1,6 @@
- 
+.name{
+    text-align: center;
+}
 body{
     background-image: url(tairu.png);
     background-repeat: repeat;
