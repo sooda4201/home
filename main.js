@@ -19,10 +19,10 @@ const block = {
 };
 
 //押したとき
-document.addEventListener('keydown',(e) => keys[e.code]=true;);
+document.addEventListener('keydown',(e) => keys[e.code]=true);
 
 //引いたとき
-document.addEventListener('keyup',(e) => keys[e.code] = false;);
+document.addEventListener('keyup',(e) => keys[e.code] = false);
 
 //プレイヤーの描画
 function drawplyer(){
