@@ -11,6 +11,12 @@ const plyer={
 
 const enemies = [];
 const sood = [];
+const block = {
+    x: canvas.width/2-10,
+    y: canvas.height-50,
+    width:30,
+    height:30,
+};
 
 //押したとき
 document.addEventListener('keydown',(e)=>{
@@ -33,3 +39,4 @@ function drawEnemies(){
     ctx.fillStyle = 'red';
     ctx.fillRect(enemies.x, enemies.y, enemies.width, enemies.height);
 }
+
