@@ -25,13 +25,13 @@ const block = {
 //document.addEventListener('keyup',(e) => keys[e.code] = false);
 
 //プレイヤーの描画
-function drawplyer(){
+function drawPlyer(){
     ctx.fillStyle='blue';
     ctx.fillRect(plyer.x, plyer.y, plyer.width, plyer.height);
 }
 
 //剣の描画
-function drawsood(){
+function drawSood(){
     ctx.fillStyle = 'orange';
     ctx.fillRect(sood.x, sood.y, sood.width, sood.height);
 }
