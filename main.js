@@ -6,7 +6,7 @@ const plyer={
   y: canvas.height - 60,
   width: 40,
   height: 40,
-  speed: 5,
+  speed: 5
 };
 
 const enemies = [];
