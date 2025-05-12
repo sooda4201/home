@@ -1,7 +1,7 @@
 const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
 
-const plyer={
+const player={
   x: canvas.width / 2 - 20,
   y: canvas.height - 60,
   width: 40,
@@ -25,9 +25,9 @@ const block = {
 //document.addEventListener('keyup',(e) => keys[e.code] = false);
 
 //プレイヤーの描画
-function drawPlyer(){
+function drawPlayer(){
     ctx.fillStyle='blue';
-    ctx.fillRect(plyer.x, plyer.y, plyer.width, plyer.height);
+    ctx.fillRect(player.x, player.y, player.width, player.height);
 }
 
 //剣の描画
